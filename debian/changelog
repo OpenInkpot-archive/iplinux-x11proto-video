@@ -1,3 +1,10 @@
+x11proto-video (2.3.0-1) asimov; urgency=low
+
+  * New upstream release.
+  * Packaging cleanup.
+
+ -- Mikhail Gusarov <dottedmag@dottedmag.net>  Sat, 26 Sep 2009 03:58:19 +0700
+
 x11proto-video (2.2.2-6) asimov; urgency=low
 
   * First build for IPlinux.
